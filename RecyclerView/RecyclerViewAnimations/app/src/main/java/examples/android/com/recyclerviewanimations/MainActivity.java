@@ -78,7 +78,7 @@ public class MainActivity extends AppCompatActivity {
      * contain a simple LinearLayout (with a background color) and a TextView (displaying
      * the value of the container's bg color).
      */
-    private class RVAdapter extends RecyclerView.Adapter {
+    private class RVAdapter extends RecyclerView.Adapter {对方是个打工
 
         ArrayList<Integer> mColors = new ArrayList<>();
 
